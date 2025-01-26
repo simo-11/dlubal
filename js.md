@@ -1,3 +1,11 @@
+# Introduction
+Most parts of functionality is available via javascript.
+
+# Views
+
+  * Console
+    * Object properties can be seen using (i)
+  * Script Manager   
 
 # References
   * https://www.youtube.com/watch?v=MX8aSMxCOAc - Automated Workflow with JavaScript in RFEM 6
