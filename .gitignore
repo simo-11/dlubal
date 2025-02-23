@@ -402,3 +402,4 @@ FodyWeavers.xsd
 # dlubal work files
 *.rf6
 *.rf6bak
+projects
